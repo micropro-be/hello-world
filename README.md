@@ -1,2 +1,2 @@
-# hello-world
-Just following instructions
+# Tutorial
+Just following instructions.
